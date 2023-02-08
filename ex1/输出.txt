@@ -1,0 +1,220 @@
+分币的输出如下：
+
+201 Created
+{
+  "tx": {
+    "block_height": -1,
+    "block_index": -1,
+    "hash": "445aba232e61ac913f1c24c29f2c5eb19bcc87ff81ae5d03260842a753de0736",
+    "addresses": [
+      "mypxELiC9GaRWGMfAN4Z6R1KuQUYYPorDr"
+    ],
+    "total": 676570,
+    "fees": 1000001,
+    "size": 498,
+    "vsize": 498,
+    "preference": "high",
+    "relayed_by": "2001:250:401:6576:95af:7243:1bde:b352",
+    "received": "2022-10-11T02:03:54.379216923Z",
+    "ver": 1,
+    "double_spend": false,
+    "vin_sz": 1,
+    "vout_sz": 10,
+    "confirmations": 0,
+    "inputs": [
+      {
+        "prev_hash": "9853dc71aa4e107f5a38f494d9a9a5a77c55affbc4513fa8b7924fd5928d85ef",
+        "output_index": 1,
+        "script": "48304502210084b37b8b98b7f2cd984fca667cf42a7577ec9b7128d5fc9f41bc66ef8b09c324022006fb2047d41439ac5dc579bc89a55cb163b90cdd3e6a85d9a5e918da22701536012103f67eca8c6ab04112e58b2d9ff24fa0639a716a81b39d3a5719b7afd47d81c342",
+        "output_value": 1676571,
+        "sequence": 4294967295,
+        "addresses": [
+          "mypxELiC9GaRWGMfAN4Z6R1KuQUYYPorDr"
+        ],
+        "script_type": "pay-to-pubkey-hash",
+        "age": 2348690
+      }
+    ],
+    "outputs": [
+      {
+        "value": 67657,
+        "script": "76a914c8d9b2ae8cf55fea462dc69ea838c5d4a3e44c1b88ac",
+        "addresses": [
+          "mypxELiC9GaRWGMfAN4Z6R1KuQUYYPorDr"
+        ],
+        "script_type": "pay-to-pubkey-hash"
+      },
+      {
+        "value": 67657,
+        "script": "76a914c8d9b2ae8cf55fea462dc69ea838c5d4a3e44c1b88ac",
+        "addresses": [
+          "mypxELiC9GaRWGMfAN4Z6R1KuQUYYPorDr"
+        ],
+        "script_type": "pay-to-pubkey-hash"
+      },
+      {
+        "value": 67657,
+        "script": "76a914c8d9b2ae8cf55fea462dc69ea838c5d4a3e44c1b88ac",
+        "addresses": [
+          "mypxELiC9GaRWGMfAN4Z6R1KuQUYYPorDr"
+        ],
+        "script_type": "pay-to-pubkey-hash"
+      },
+      {
+        "value": 67657,
+        "script": "76a914c8d9b2ae8cf55fea462dc69ea838c5d4a3e44c1b88ac",
+        "addresses": [
+          "mypxELiC9GaRWGMfAN4Z6R1KuQUYYPorDr"
+        ],
+        "script_type": "pay-to-pubkey-hash"
+      },
+      {
+        "value": 67657,
+        "script": "76a914c8d9b2ae8cf55fea462dc69ea838c5d4a3e44c1b88ac",
+        "addresses": [
+          "mypxELiC9GaRWGMfAN4Z6R1KuQUYYPorDr"
+        ],
+        "script_type": "pay-to-pubkey-hash"
+      },
+      {
+        "value": 67657,
+        "script": "76a914c8d9b2ae8cf55fea462dc69ea838c5d4a3e44c1b88ac",
+        "addresses": [
+          "mypxELiC9GaRWGMfAN4Z6R1KuQUYYPorDr"
+        ],
+        "script_type": "pay-to-pubkey-hash"
+      },
+      {
+        "value": 67657,
+        "script": "76a914c8d9b2ae8cf55fea462dc69ea838c5d4a3e44c1b88ac",
+        "addresses": [
+          "mypxELiC9GaRWGMfAN4Z6R1KuQUYYPorDr"
+        ],
+        "script_type": "pay-to-pubkey-hash"
+      },
+      {
+        "value": 67657,
+        "script": "76a914c8d9b2ae8cf55fea462dc69ea838c5d4a3e44c1b88ac",
+        "addresses": [
+          "mypxELiC9GaRWGMfAN4Z6R1KuQUYYPorDr"
+        ],
+        "script_type": "pay-to-pubkey-hash"
+      },
+      {
+        "value": 67657,
+        "script": "76a914c8d9b2ae8cf55fea462dc69ea838c5d4a3e44c1b88ac",
+        "addresses": [
+          "mypxELiC9GaRWGMfAN4Z6R1KuQUYYPorDr"
+        ],
+        "script_type": "pay-to-pubkey-hash"
+      },
+      {
+        "value": 67657,
+        "script": "76a914c8d9b2ae8cf55fea462dc69ea838c5d4a3e44c1b88ac",
+        "addresses": [
+          "mypxELiC9GaRWGMfAN4Z6R1KuQUYYPorDr"
+        ],
+        "script_type": "pay-to-pubkey-hash"
+      }
+    ]
+  }
+}
+
+以下是我交易的输出：
+201 Created
+{
+  "tx": {
+    "block_height": -1,
+    "block_index": -1,
+    "hash": "f2a2ec528656a66c5e0ef7397ab0a3090f9031bb509ea24f2d83928e07a9f4de",
+    "addresses": [
+      "mypxELiC9GaRWGMfAN4Z6R1KuQUYYPorDr",
+      "mv4rnyY3Su5gjcDNzbMLKBQkBicCtHUtFB"
+    ],
+    "total": 57,
+    "fees": 67600,
+    "size": 191,
+    "vsize": 191,
+    "preference": "high",
+    "relayed_by": "2001:250:401:6576:95af:7243:1bde:b352",
+    "received": "2022-10-11T02:06:14.796747257Z",
+    "ver": 1,
+    "double_spend": false,
+    "vin_sz": 1,
+    "vout_sz": 1,
+    "confirmations": 0,
+    "inputs": [
+      {
+        "prev_hash": "445aba232e61ac913f1c24c29f2c5eb19bcc87ff81ae5d03260842a753de0736",
+        "output_index": 0,
+        "script": "473044022024410fa53976ef428ea6fa840641781438063a586f78c7c98cfffbbb323c340a022007a3664fe87e3e14df71a519b71b8aade8e37938d0ef81886ecc1b04c2415bef012103f67eca8c6ab04112e58b2d9ff24fa0639a716a81b39d3a5719b7afd47d81c342",
+        "output_value": 67657,
+        "sequence": 4294967295,
+        "addresses": [
+          "mypxELiC9GaRWGMfAN4Z6R1KuQUYYPorDr"
+        ],
+        "script_type": "pay-to-pubkey-hash",
+        "age": 2350395
+      }
+    ],
+    "outputs": [
+      {
+        "value": 57,
+        "script": "76a9149f9a7abd600c0caa03983a77c8c3df8e062cb2fa88ac",
+        "addresses": [
+          "mv4rnyY3Su5gjcDNzbMLKBQkBicCtHUtFB"
+        ],
+        "script_type": "pay-to-pubkey-hash"
+      }
+    ]
+  }
+}
+
+201 Created
+{
+  "tx": {
+    "block_height": -1,
+    "block_index": -1,
+    "hash": "3acd438856a693ed7a25a424bef90a2040f77908f6214a457000b4cf68ba9e0f",
+    "addresses": [
+      "mypxELiC9GaRWGMfAN4Z6R1KuQUYYPorDr",
+      "mv4rnyY3Su5gjcDNzbMLKBQkBicCtHUtFB"
+    ],
+    "total": 1,
+    "fees": 67656,
+    "size": 192,
+    "vsize": 192,
+    "preference": "high",
+    "relayed_by": "2001:250:401:6576:95af:7243:1bde:b352",
+    "received": "2022-10-11T02:10:28.900607636Z",
+    "ver": 1,
+    "double_spend": false,
+    "vin_sz": 1,
+    "vout_sz": 1,
+    "confirmations": 0,
+    "inputs": [
+      {
+        "prev_hash": "445aba232e61ac913f1c24c29f2c5eb19bcc87ff81ae5d03260842a753de0736",
+        "output_index": 1,
+        "script": "483045022100f924a517a135cecaaf1ba1d1e0c6dc3eeede83dc557295475553b6c098a78fce02204816eefc02aafdab00b34d2d60d67fcfcd9d227a1031887921af4ad3b18bfc53012103f67eca8c6ab04112e58b2d9ff24fa0639a716a81b39d3a5719b7afd47d81c342",
+        "output_value": 67657,
+        "sequence": 4294967295,
+        "addresses": [
+          "mypxELiC9GaRWGMfAN4Z6R1KuQUYYPorDr"
+        ],
+        "script_type": "pay-to-pubkey-hash",
+        "age": 2350395
+      }
+    ],
+    "outputs": [
+      {
+        "value": 1,
+        "script": "76a9149f9a7abd600c0caa03983a77c8c3df8e062cb2fa88ac",
+        "addresses": [
+          "mv4rnyY3Su5gjcDNzbMLKBQkBicCtHUtFB"
+        ],
+        "script_type": "pay-to-pubkey-hash"
+      }
+    ]
+  }
+}
